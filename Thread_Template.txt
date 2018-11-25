@@ -246,6 +246,8 @@ The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for t
 [QUOTE][LEFT]
 [B]Telegram Group[/B] - [B][URL="https://t.me/XtendedOfficial"]MSM-X Telegram Public Group[/URL][/B]
 
+[B]Tissot Telegram Group[/B] - [B][URL="https://t.me/joinchat/Fd89_VG5geoBHs1o6MOyWA"]MSM-X Tissot Telegram Group[/URL][/B]
+
 [B]G+ Community[/B] - [B][URL="https://plus.google.com/u/1/communities/104070483402051093195"]MSM-X G+ Group[/URL][/B]
 [/LEFT][/QUOTE]
 [/CENTER]
@@ -253,7 +255,7 @@ The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for t
 [CENTER][url=https://postimg.cc/vDng4LnX][img]https://i.postimg.cc/vDng4LnX/Download.png[/img][/url]
 [QUOTE][LEFT]
 
-[B]ROM: [URL="https://sourceforge.net/projects/xtended/files"]MSM-Xtended ROM[/URL][/B]
+[B]ROM: [URL="https://sourceforge.net/projects/xtended/files/tissot/Xtended-tissot-20181112-XP2.5-OFFICIAL-Release-v6.zip"]MSM-Xtended ROM[/URL][/B]
 
 [B]Gapps Package: [URL="https://opengapps.org/"] Open Gapps [/URL][/B]
 
@@ -266,10 +268,12 @@ The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for t
 [B]Clean Flash[/B]
 1) Backup Everything (Most Important)
 2) Download ROM, Gapps, Magisk, etc.
-3) Reboot to Recovery (TWRP)
-4) Wipe System, Data, Cache, Dalvik Cache.
-5) Flash - ROM, Gapps, Magisk
-6) Once done, wipe cache.
+3) Remove Lockscreen Security.
+4) Reboot To Twrp Recovery.
+5) Wipe System, Data, Dalvik Cache.
+6) Flash - ROM, Twrp Installer.
+7) Reboot To Recovery.
+6) Flash Magisk And Gapps.
 7) Reboot to System.
 
 [B]Dirty Flash[/B]
@@ -310,7 +314,7 @@ The Base is AOSP & GZOSP and thus Special Thanks to @martinusbe & Team GZR for t
 
 [B]ROM Source Pie[/B] - [B][URL="https://github.com/Xtended-Pie"]Project-Xtended Pie Sources[/URL][/B]
 
-[B]Kernel Source[/B] - [B][URL="XXXX-LINK"]Kernel Sources[/URL][/B]
+[B]Kernel Source[/B] - [B][URL="https://github.com/Dark-Matter7232/xtended_kernel_tissot"]Kernel Sources[/URL][/B]
 [/LEFT][/QUOTE]
 
 [url=https://postimg.cc/D4fZZDbM][img]https://i.postimg.cc/D4fZZDbM/Credits.png[/img][/url]
